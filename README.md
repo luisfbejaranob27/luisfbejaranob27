@@ -1,6 +1,6 @@
 # Hi I am Luisfbejaranob ✌️
 
-##### Languages I use
+## Languages I use
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
 
-##### Some of the technologies I have worked with
+## Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Springboot](https://img.shields.io/badge/-Springboot-000000?style=flat&logo=springboot)
